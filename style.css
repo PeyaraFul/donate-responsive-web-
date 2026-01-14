@@ -98,8 +98,8 @@ li{
      
 }
 .donate-plan-container{
-    margin: 50px 156px;
-    
+    margin: 50px 10%;
+    justify-content: space-around;
     display: flex;
     flex-wrap: wrap;
     gap: 24px ;
@@ -130,4 +130,7 @@ li{
         
     }
     
+.donate-plan-container{
+    margin: ;
+}
 }
